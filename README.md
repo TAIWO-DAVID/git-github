@@ -1,2 +1,2 @@
 # git-github
-My Github account
+My GitHub account
